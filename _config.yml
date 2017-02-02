@@ -2,7 +2,7 @@
 
 title:            Jacob Maibach
 locale:           en_US
-logo:             # filename of a logo image that has been placed into your images directory 
+logo:             mse_user_icon.png
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url: /jacobmaibach
 # Enter the following platform usernames if you would like for them to appear on your site.

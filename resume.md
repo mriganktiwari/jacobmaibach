@@ -7,18 +7,18 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013 - 2016`
+__The George Washington University__
+B.S. in Mathematics and Physics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016 - 2017`
+__The George Washington University__
+M.S. in Data Science 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2014`
+Luther Rice Research Fellowship, The George Washington University 
 
 ## Publications
 
@@ -29,13 +29,7 @@ Name of Award, Organization
 `1994`
 Article Title, Journal Title
 
-`1994`
-Article Title, Journal Title
-
 ### Books
-
-`1994`
-Book Title, Journal Title
 
 `1994`
 Book Title, Journal Title
@@ -43,8 +37,8 @@ Book Title, Journal Title
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2015`
+Presentation Title, APS March Meeting, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
